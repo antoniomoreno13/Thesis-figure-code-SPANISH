@@ -1,0 +1,37 @@
+Activity;SES;SES_cat;Quartile;OR;LL;UL;Text;Color
+Sedentarismo;Education;Secundaria;Q1;1,54;1,28;1,85;1.54 (1.28-1.85, p < 0.001);dodgerblue3
+Sedentarismo;Education;Universitario;Q1;2,51;2,06;3,06;2.51 (2.06-3.06, p < 0.001);dodgerblue4
+Sedentarismo;Education;Secundaria;Q2;1,18;0,97;1,43;1.18 (0.97-1.43, p = 0.093);dodgerblue3
+Sedentarismo;Education;Universitario;Q2;1,77;1,44;2,17;1.77 (1.44-2.17, p < 0.001);dodgerblue4
+Sedentarismo;Education;Secundaria;Q3;1,14;0,98;1,33;1.14 (0.98-1.33, p = 0.081);dodgerblue3
+Sedentarismo;Education;Universitario;Q3;1,38;1,17;1,63;1.38 (1.17-1.63, p < 0.001);dodgerblue4
+Sedentarismo;SC;I-II;Q1;2,66;2,21;3,19;2.66 (2.21-3.19, p < 0.001);firebrick4
+Sedentarismo;SC;III-IV;Q1;2,88;2,49;3,33;2.88 (2.49-3.33, p < 0.001);red
+Sedentarismo;SC;I-II;Q2;2,26;1,94;2,64;2.26 (1.94-2.64, p < 0.001);firebrick4
+Sedentarismo;SC;III-IV;Q2;2,15;1,9;2,43;2.15 (1.90-2.43, p < 0.001);red
+Sedentarismo;SC;I-II;Q3;1,35;1,18;1,54;1.35 (1.18-1.54, p < 0.001);firebrick4
+Sedentarismo;SC;III-IV;Q3;1,26;1,14;1,4;1.26 (1.14-1.40, p < 0.001);red
+Sedentarismo;Bills;Ocasionalmente;Q1;0,63;0,51;0,78;0.63 (0.51-0.78, p < 0.001);yellow1
+Sedentarismo;Bills;Nunca;Q1;0,81;0,66;1;0.81 (0.66-1.00, p = 0.047);orange1
+Sedentarismo;Bills;Ocasionalmente;Q2;0,71;0,59;0,85;0.71 (0.59-0.85, p < 0.001);yellow1
+Sedentarismo;Bills;Nunca;Q2;0,79;0,66;0,94;0.79 (0.66-0.94, p = 0.009);orange1
+Sedentarismo;Bills;Ocasionalmente;Q3;1;0,85;1,18;1.00 (0.85-1.18, p = 0.966);yellow1
+Sedentarismo;Bills;Nunca;Q3;1,02;0,87;1,19;1.02 (0.87-1.19, p = 0.842);orange1
+Actividad Física Total;Education;Secundaria;Q3;1,33;1,12;1,58;1.33 (1.12-1.58, p = 0.001);dodgerblue3
+Actividad Física Total;Education;Universitario;Q3;2,18;1,81;2,64;2.18 (1.81-2.64, p < 0.001);dodgerblue4
+Actividad Física Total;Education;Secundaria;Q2;1,66;1,36;2,01;1.66 (1.36-2.01, p < 0.001);dodgerblue3
+Actividad Física Total;Education;Universitario;Q2;3,03;2,46;3,74;3.03 (2.46-3.74, p < 0.001);dodgerblue4
+Actividad Física Total;Education;Secundaria;Q1;1,54;1,29;1,83;1.54 (1.29-1.83, p < 0.001);dodgerblue3
+Actividad Física Total;Education;Universitario;Q1;2,48;2,04;3,02;2.48 (2.04-3.02, p < 0.001);dodgerblue4
+Actividad Física Total;SC;I-II;Q3;1,29;1,1;1,52;1.29 (1.10-1.52, p = 0.002);firebrick4
+Actividad Física Total;SC;III-IV;Q3;1,13;1;1,26;1.13 (1.00-1.26, p = 0.044);red
+Actividad Física Total;SC;I-II;Q2;1,71;1,46;2,01;1.71 (1.46-2.01, p < 0.001);firebrick4
+Actividad Física Total;SC;III-IV;Q2;1,23;1,1;1,39;1.23 (1.10-1.39, p = 0.001);red
+Actividad Física Total;SC;I-II;Q1;1,18;1;1,39;1.18 (1.00-1.39, p = 0.053);firebrick4
+Actividad Física Total;SC;III-IV;Q1;0,97;0,86;1,09;0.97 (0.86-1.09, p = 0.582);red
+Actividad Física Total;Bills;Ocasionalmente;Q3;1,38;1,16;1,64;1.38 (1.16-1.64, p < 0.001);yellow1
+Actividad Física Total;Bills;Nunca;Q3;1,8;1,52;2,13;1.80 (1.52-2.13, p < 0.001);orange1
+Actividad Física Total;Bills;Ocasionalmente;Q2;1,41;1,16;1,71;1.41 (1.16-1.71, p < 0.001);yellow1
+Actividad Física Total;Bills;Nunca;Q2;2,16;1,8;2,6;2.16 (1.80-2.60, p < 0.001);orange1
+Actividad Física Total;Bills;Ocasionalmente;Q1;1,04;0,87;1,25;1.04 (0.87-1.25, p = 0.634);yellow1
+Actividad Física Total;Bills;Nunca;Q1;1,74;1,47;2,07;1.74 (1.47-2.07, p < 0.001);orange1
