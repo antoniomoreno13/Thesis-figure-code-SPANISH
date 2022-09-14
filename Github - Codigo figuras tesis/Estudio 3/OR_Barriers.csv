@@ -1,0 +1,37 @@
+Sample;Barriers;SC;LL;OR;HL
+Mujeres;Falta de tiempo;middle;0,602;0,823;1,126
+Mujeres;Falta de tiempo;low;0,499;0,683;0,935
+Mujeres;Demasiado caro;middle;2,802;9,291;30,803
+Mujeres;Demasiado caro;low;4,589;15,174;50,181
+Mujeres;Competitividad;middle;0,968;1,798;3,342
+Mujeres;Competitividad;low;1,46;2,729;5,099
+Mujeres;Falta de infraestructuras;middle;0,448;1,037;2,402
+Mujeres;Falta de infraestructuras;low;0,61;1,422;3,315
+Mujeres;Enfermedad o discapacidad;middle;0,956;1,449;2,196
+Mujeres;Enfermedad o discapacidad;low;1,515;2,282;3,437
+Mujeres;Falta de amigos;middle;0,444;0,937;1,977
+Mujeres;Falta de amigos;low;0,904;1,924;4,096
+Mujeres;Discriminación;middle;0,022;0,196;1,757
+Mujeres;Discriminación;low;0,018;0,165;1,526
+Mujeres;Falta de motivación;middle;0,982;1,378;1,933
+Mujeres;Falta de motivación;low;1,44;2,02;2,833
+Mujeres;Riesgo de lesión;middle;0,924;1,782;3,435
+Mujeres;Riesgo de lesión;low;1,112;2,134;4,094
+Hombres;Falta de tiempo;middle;0,826;1,117;1,509
+Hombres;Falta de tiempo;low;0,697;0,943;1,277
+Hombres;Demasiado caro;middle;0,886;1,866;3,928
+Hombres;Demasiado caro;low;1,61;3,39;7,141
+Hombres;Competitividad;middle;0,838;1,62;3,132
+Hombres;Competitividad;low;1,407;2,723;5,271
+Hombres;Falta de infraestructuras;middle;0,719;1,709;4,064
+Hombres;Falta de infraestructuras;low;0,877;2,088;4,972
+Hombres;Enfermedad o discapacidad;middle;1,135;1,698;2,539
+Hombres;Enfermedad o discapacidad;low;2,11;3,129;4,642
+Hombres;Falta de amigos;middle;0,337;0,681;1,376
+Hombres;Falta de amigos;low;0,545;1,099;2,217
+Hombres;Discriminación;middle;0,025;0,153;0,927
+Hombres;Discriminación;low;0,071;0,379;2,031
+Hombres;Falta de motivación;middle;0,959;1,319;1,815
+Hombres;Falta de motivación;low;1,688;2,323;3,197
+Hombres;Riesgo de lesión;middle;1,078;2,079;4,013
+Hombres;Riesgo de lesión;low;1,193;2,294;4,41
